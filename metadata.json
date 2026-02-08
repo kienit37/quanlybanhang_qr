@@ -1,0 +1,5 @@
+{
+  "name": "Kiencode.io.vn - Smart Ordering System",
+  "description": "A realtime QR ordering system for restaurants. Customers scan to order, staff manage orders via a live dashboard.",
+  "requestFramePermissions": []
+}
